@@ -2,6 +2,8 @@ import { resolve } from "node:path";
 import { readFileSync } from "node:fs";
 import { defineConfig, loadEnv, createFilter, transformWithEsbuild } from "vite";
 import react from "@vitejs/plugin-react";
+import tailwindcss from "tailwindcss";
+
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
     setEnv(mode);
@@ -16,6 +18,7 @@ export default defineConfig(({ mode }) => {
             importPrefixPlugin(),
             htmlPlugin(mode),
             svgrPlugin(),
+            tailwindcss(),
         ],
     };
 });

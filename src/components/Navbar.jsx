@@ -145,7 +145,7 @@ export function Navbar() {
                 
                 </Link>
               </div>
-              <center>
+              <center className="right50">
               <div className="hidden md:block ">
                 <div className="ml-10 flex items-baseline space-x-4">
                   <NavLink to="/" className="custom"
@@ -228,11 +228,11 @@ export function Navbar() {
             </NavLink>
 
             <Dropdown  onClick={handleChildClick} value={selectedInspectionOption} onChange={(e) => setSelectedInspectionOption(e.value)} options={InspectionOption} optionLabel="name" 
-              placeholder="Financial Information" className="custom" /> <p> </p>
+              placeholder="Smoke Inspection Info" className="custom" /> <p> </p>
 
 
             <Dropdown  onClick={handleChildClick} value={selectedPreventionOption} onChange={(e) => setSelectedPreventionOption(e.value)} options={PreventionOption} optionLabel="name" 
-              placeholder="Meeting Information" className="custom" />
+              placeholder="Fire Prevention Tips" className="custom" />
 
             <br></br>
           
