@@ -17,17 +17,17 @@
     "react-bootstrap-navdropdown-active": "^0.2.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.3.0",
-    "react-scripts": "^5.0.1",
     "recharts": "^2.15.1",
     "serve": "^14.2.4",
     "tailwind": "^4.0.0",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "vite",
+    "build": "vite build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev": "vite"
   },
   "eslintConfig": {
     "extends": [
@@ -50,11 +50,15 @@
   "devDependencies": {
     "@aws-amplify/backend": "^1.14.3",
     "@aws-amplify/backend-cli": "^1.5.0",
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "@vitejs/plugin-react": "^4.3.4",
     "aws-cdk": "^2.1003.0",
     "aws-cdk-lib": "^2.180.0",
     "constructs": "^10.4.2",
     "esbuild": "^0.25.1",
     "tsx": "^4.19.3",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.2",
+    "vite": "^6.1.0"
   }
 }
