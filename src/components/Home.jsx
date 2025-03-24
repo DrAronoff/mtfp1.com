@@ -16,8 +16,77 @@ export function Home() {
                     </div>
                     <center><p>Welcome to the Monroe Township Fire District #1 website! Click on one of the links below to access the Smoke Detector Application or Board of Fire Commissioners websites.</p></center>
                     <center>
+                    <table><tbody><tr><td valign="top">
+                            <div class="image-center">
+                            <center>
+                            <div class="image-center">
+                            <a href="http://mtfp1.com/smoke-detector-application/"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/Smoke-Detector-small.gif"></img></a><br></br>
+                            <a href="http://mtfp1.com/smoke-detector-application/" target="new" rel="noopener">Smoke Detector Inspection Application</a>
+                            </div>
+                            </center></div></td>
+                            <td>
+                            <a href="http://mtfp1.com/monroe-township-fire-district-1-affidavit-self-inspection/" target="new" rel="noopener">Self-Inspection Affidavit Form</a>
+                            </td>
+                            <td>
+                            <a href="https://mtfp1.com/business-registration-update-form/" target="new" rel="noopener">Business Registration Update Form</a>
+                            </td>
+                            </tr></tbody></table>
+                                <p>&nbsp;</p>
+                                <table><tbody><tr><td valign="top">
+                            <div class="image-center">
+                            <center>
+                            <a href="http://mtfp1.com/smoke-detector-inspection-payment-form/" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/09/Paypal_badge.jpg" border="0"></img></a><br></br>
+                            <font size="+2"><a href="http://mtfp1.com/smoke-detector-inspection-payment-form/" target="new" rel="noopener noreferrer">Pay Smoke Detector Inspection Fee Online</a></font></center></div>
+                            </td><td valign="top">
+                            <p><u><b>Per <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/10/O-8-2020-015.pdf" target="new" rel="noopener">Ordinance No. O-8-2020-015</a>:</b></u></p>
+                            <p><b>Required PayPal Transaction Fees:</b> 2.9% + $0.30 per transaction<br></br>
+                            <b>In-person Transactions:</b><br></br>
+                            2.7% per credit card swipe, chip, or tap<br></br>
+                            3.5% plus $0.15 for manually entered transactions<br></br>
+                            </p></td>
+                            </tr>
+                            <tr>
+                            <td valign="top">
+                            <div class="image-center">
+                            <center>
+                            <a href="http://mtfp1.com/business-registration-permit-fees-payment-form/" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2021/01/paypal2.png" alt="PayPal"></img></a><br></br>
+                            <font size="+2"><a href="http://mtfp1.com/business-registration-permit-fees-payment-form/" target="new" rel="noopener noreferrer">Pay Registration and/or Permit Fees Online</a></font>
+                            </center>
+                            </div>
+                            </td>
+                            <td valign="top">
+                            <font size="+1"><a href="https://mtfp1.com/application-for-type-1-permit/" target="new" rel="noopener noreferrer">Application for These Type 1 Permits:</a><br></br></font>
+                            <font size="+1">
+                            <ul>
+                            <li>Propane</li>
+                            <li>Bounce House</li>
+                            <li>Open Flame</li>
+                            <li>Tent</li>
+                            <li>Bonfire</li>
+                            </ul>
+                            </font>
+                            </td>
+                            </tr></tbody></table>
+                                
+                                <table><tbody><tr>
+                            <td>
+                            <div class="image-center">
+                            <a href="http://mtfp1.com/fire-prevention-general/"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango_small.jpg"></img></a><br></br>
+                            <a href="http://mtfp1.com/fire-prevention-general/">Fire Prevention</a> 
+                            </div>
+                            </td><td>
+                            <div class="image-center">
+                            <center><a href="http://www.monroefd1nj.com/" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/commissionerlogo_small.jpg"></img></a><br></br>
+                            <a href="http://www.monroefd1nj.com/" target="new" rel="noopener noreferrer">Board of Fire Commissioners</a><br></br><br></br>
+                            <a href="https://youtu.be/f6yCtToEScQ" target="new" rel="noopener noreferrer">Click here</a> for a special video message from our Fire Company.
+                            </center></div>
+                            </td></tr></tbody></table>
                     <p><font size="+2"><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2025_Monroe_Fire_Contest_Thank_You.docx" target="new">2025 Home Inspection Contest: Thank You Letter to Parents</a></font></p>
                     <p><font size="+2"><u>2024-2025 Fire Prevention Poster Contest Theme:</u>
+                    
+                    
+                   
+                    
                     <br></br>
                     &#8220;Smoke Alarms &#8211; Make Them WORK For You!”
                     </font></p>
@@ -38,78 +107,7 @@ export function Home() {
                     <font size="+2"><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/07/LithiumIonBatterySafety.pdf" target="new" rel="noopener">Click here for important Lithium-Ion battery information!</a></font></center>
 
                     <center>
-                    <table class="application_tabe"><tbody>
-                        <tr><td valign="top">
-                    <center>
-                    <div class="image-center">
-                    <a href="http://mtfp1.com/smoke-detector-application/"><img decoding="async" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/Smoke-Detector-small.gif"/></a><br></br>
-                    <a href="http://mtfp1.com/smoke-detector-application/" target="new" rel="noopener">Smoke Detector Inspection Application</a>
-                    </div>
-                    </center></td>
-
-                    <td>
-                    <a href="http://mtfp1.com/monroe-township-fire-district-1-affidavit-self-inspection/" target="new" rel="noopener">Self-Inspection Affidavit Form</a>
-                    </td>
-
-                    <td>
-                    <a href="https://mtfp1.com/business-registration-update-form/" target="new" rel="noopener">Business Registration Update Form</a>
-                    </td>
-                    </tr></tbody></table>
-                    
-
-
-
-                    <table><tbody><tr><td valign="top">
-                    <div class="image-center">
-                    <center>
-                    <a href="http://mtfp1.com/business-registration-permit-fees-payment-form/" target="new" rel="noopener noreferrer"><img decoding="async" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2021/01/paypal2.png" alt="PayPal"/></a><br></br>
-
-                    <font size="+2"><a href="http://mtfp1.com/smoke-detector-inspection-payment-form/" target="new" rel="noopener noreferrer">Pay Smoke Detector Inspection Fee Online</a></font></center></div>
-                    </td><td valign="top">
-                    <p><u><b>Per <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/10/O-8-2020-015.pdf" target="new" rel="noopener">Ordinance No. O-8-2020-015</a>:</b></u></p>
-                    <p><b>Required PayPal Transaction Fees:</b> 2.9% + $0.30 per transaction<br></br>
-                    <b>In-person Transactions:</b><br></br>
-                    2.7% per credit card swipe, chip, or tap<br></br>
-                    3.5% plus $0.15 for manually entered transactions<br></br>
-                    </p></td>
-                    </tr>
-                    <tr>
-                    <td valign="top">
-                    <div class="image-center">
-                    <center>
-                    <font size="+2"><a href="http://mtfp1.com/business-registration-permit-fees-payment-form/" target="new" rel="noopener noreferrer">Pay Registration and/or Permit Fees Online</a></font>
-                    </center>
-                    </div>
-                    </td>
-                    <td valign="top">
-                    <font size="+1"><a href="https://mtfp1.com/application-for-type-1-permit/" target="new" rel="noopener noreferrer">Application for These Type 1 Permits:</a><br></br></font>
-                    <font size="+1">
-                    <ul>
-                    <li>Propane</li>
-                    <li>Bounce House</li>
-                    <li>Open Flame</li>
-                    <li>Tent</li>
-                    <li>Bonfire</li>
-                    </ul>
-                    </font>
-                    </td>
-                    </tr></tbody></table>
-
-
-
-                    <table><tbody><tr>
-                    <td>
-                    <div class="image-center">
-                    <a href="http://mtfp1.com/fire-prevention-general/"><img decoding="async" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango_small.jpg"/></a><br></br>
-                    <a href="http://mtfp1.com/fire-prevention-general/">Fire Prevention</a> 
-                    </div>
-                    </td><td>
-                    <div class="image-center">
-                    <center><a href="http://www.monroefd1nj.com/" target="new" rel="noopener noreferrer"><img decoding="async" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/commissionerlogo_small.jpg"/></a><br></br>
-                    <a href="http://www.monroefd1nj.com/" target="new" rel="noopener noreferrer">Board of Fire Commissioners</a><br></br><br></br>
-                    <a href="https://youtu.be/f6yCtToEScQ" target="new" rel="noopener noreferrer">Click here</a> for a special video message from our Fire Company.
-                    </center></div>
-                    </td></tr></tbody></table>
+           
 
 
                     <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
@@ -270,7 +268,9 @@ export function Home() {
                     </ul>
 
                     </center>
+                    
                 </div>
+                
             </section>
         </>
     )
