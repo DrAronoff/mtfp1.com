@@ -22,7 +22,15 @@ export function FireworksSafety() {
 
 
                 <h2 class="has-text-align-center wp-block-heading">4th of July Safety Tip Links</h2>
-
+                <iframe
+                    width="600"
+                    height="450"
+                    loading="lazy"
+                    allowfullscreen="true"
+                    webkitallowfullscreen="true" mozallowfullscreen="true"
+                    referrerpolicy="no-referrer-when-downgrade"
+                    src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/fireworks_safety_final.ogv">
+                </iframe>
 
 
                 <ul>

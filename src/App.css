@@ -34,9 +34,10 @@ th, td{
     font-family: inherit;
     text-align: center;
     border-color: gray;
-    border-width: 1px;
+    border-width: 2px;
     border-style: solid;
     border-collapse: separate !important;
+    padding: 5px;
 }
 .custom1 {
     background-color: #243271;
