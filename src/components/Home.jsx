@@ -25,10 +25,12 @@ export function Home() {
                             </div>
                             </center></div></td>
                             <td>
-                            <a href="http://mtfp1.com/monroe-township-fire-district-1-affidavit-self-inspection/" target="new" rel="noopener">Self-Inspection Affidavit Form</a>
+                            <Link to="/monroe-township-fire-district-1-affidavit-self-inspection">Self-Inspection Affidavit Form</Link>
+
                             </td>
                             <td>
-                            <a href="https://mtfp1.com/business-registration-update-form/" target="new" rel="noopener">Business Registration Update Form</a>
+                            <Link to="/business-registration-update-form">Business Registration Update Form</Link>
+
                             </td>
                             </tr></tbody></table>
                                 <p>&nbsp;</p>

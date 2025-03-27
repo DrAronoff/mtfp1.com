@@ -40,6 +40,8 @@ import { FireworksSafety } from './components/FireworksSafety'
 import { WinterTips } from './components/WinterTips'
 import { OperationHoly } from './components/OperationHoly'
 import { GetOutAlive } from './components/GetOutAlive'
+import { SelfInspectionAffidavit } from './components/SelfInspectionAffidavit'
+import { BusinessRegistrationUpdate } from './components/BusinessRegistrationUpdate'
 
 
 
@@ -88,10 +90,9 @@ export default function App() {
           <Route path="/audit" element={<Audit />} />
           <Route path="/report" element={<Report />} />
 
-          <Route path="/agendaArchive" element={<AgendaArchive />} />
-          <Route path="/minutesArchive" element={<MinutesArchive />} />
-          <Route path="/reportsArchive" element={<ReportsArchive />} />
-          <Route path="/elections" element={<Elections />} />
+          <Route path="/monroe-township-fire-district-1-affidavit-self-inspection" element={<SelfInspectionAffidavit />} />
+          <Route path="/business-registration-update-form" element={<BusinessRegistrationUpdate />} />
+
 
         </Routes>
         <Footer />
