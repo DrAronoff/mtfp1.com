@@ -12,11 +12,11 @@ export function OperationHoly() {
 
 
 
-<p><strong>For an outline of  the program objectives, <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/HolySmokes_outline.docx">click here</a> to download the Word document or <a href="http://mtfp1.com/?page_id=115">click here</a> for the online version.</strong></p>
+<p><strong>For an outline of  the program objectives, <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/HolySmokes_outline.docx">click here</a> to download the Word document </strong></p>
 
 
 
-<p><strong>To view a home inspection checklist for those wishing  to start a similar program, <a href="http://mtfp1.com/WP/wp-content/uploads/2019/12/Holy_Smokes_checklist.docx">click here to do</a><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/Holy_Smokes_checklist.docx">wnload the Word documentation</a> or <a href="http://mtfp1.com/?page_id=121">click here</a> to view it online.</strong></p>
+<p><strong>To view a home inspection checklist for those wishing  to start a similar program, <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/Holy_Smokes_checklist.docx">click here to </a><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/Holy_Smokes_checklist.docx">download the Word documentation</a></strong></p>
 
 
 

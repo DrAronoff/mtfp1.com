@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 export function SelfInspectionAffidavit() {
     return (
@@ -9,7 +10,7 @@ export function SelfInspectionAffidavit() {
        <br></br>
        <br></br>
         <center>
-       <p><strong><a href="http://mtfp1.com/smoke-detector-application/" target="_blank" rel="noreferrer noopener">Smoke Detector Application</a> must be filled out first </strong></p>
+       <p><strong><Link to="/smoke-detector-application" target="_blank" rel="noreferrer noopener">Smoke Detector Application</Link> must be filled out first </strong></p>
        </center>
        <iframe
       id="JotFormIFrame-211894443199163"

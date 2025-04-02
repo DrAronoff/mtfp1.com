@@ -58,35 +58,35 @@ export function FirePreventionLessons() {
 
 
 <ul class="wp-block-list">
-<li><Link to="/fire-prevention-pre-k-kindergarten/" data-type="URL">Pre-K &#8211; Kindergarten Lesson Plan</Link></li>
+<li><Link to="/fire-prevention-pre-k-kindergarten" data-type="URL">Pre-K &#8211; Kindergarten Lesson Plan</Link></li>
 
 
 
-<li><Link to="/fire-prevention-first-grade/">First Grade Lesson Plan</Link></li>
+<li><Link to="/fire-prevention-first-grade">First Grade Lesson Plan</Link></li>
 
 
 
-<li><Link to="/fire-prevention-second-grade/">Second Grade Lesson Plan</Link></li>
+<li><Link to="/fire-prevention-second-grade">Second Grade Lesson Plan</Link></li>
 
 
 
-<li><Link to="/fire-prevention-third-grade/">Third Grade Assembly (Non-Trailer)</Link></li>
+<li><Link to="/fire-prevention-third-grade">Third Grade Assembly (Non-Trailer)</Link></li>
 
 
 
-<li><Link to="/fire-safety-trailer-presentation/">Third Grade Fire Prevention Trailer</Link></li>
+<li><Link to="/fire-safety-trailer-presentation">Third Grade Fire Prevention Trailer</Link></li>
 
 
 
-<li><Link to="/fire-prevention-fourth-grade/">Fourth Grade Lesson Plan</Link></li>
+<li><Link to="/fire-prevention-fourth-grade">Fourth Grade Lesson Plan</Link></li>
 
 
 
-<li><Link to="/fire-prevention-fifth-grade/">Fifth Grade Lesson Plan</Link></li>
+<li><Link to="/fire-prevention-fifth-grade">Fifth Grade Lesson Plan</Link></li>
 
 
 
-<li><Link to="/gym-class-stop-drop-and-roll/">Gym Class/&#8221;Stop, Drop, and Roll&#8221;</Link></li>
+<li><Link to="/gym-class-stop-drop-and-roll">Gym Class/&#8221;Stop, Drop, and Roll&#8221;</Link></li>
 </ul>
 		
             </center>

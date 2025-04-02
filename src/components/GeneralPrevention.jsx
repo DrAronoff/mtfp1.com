@@ -12,7 +12,7 @@ export function GeneralPrevention() {
         <br></br>
 
             <center>
-            <div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="640" height="262" src="http://mtfp1.com/WP/wp-content/uploads/2020/01/fireprevdurango.jpg" alt="Fire Prevention Bureau Vehicle" class="wp-image-387" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango.jpg 640w, https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango-300x123.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+            <div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="640" height="262" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango.jpg" alt="Fire Prevention Bureau Vehicle" class="wp-image-387" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango.jpg 640w, https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango-300x123.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
 
 
 

@@ -129,7 +129,7 @@ export function Home() {
 
 
 
-                    <h2>Teachers: <a href="https://mtfp1.com/fire-prevention-lessons/">Click here to access the Fire Prevention Lessons and videos.</a></h2>
+                    <h2>Teachers: <Link to="/fire-prevention-lessons">Click here to access the Fire Prevention Lessons and videos.</Link></h2>
 
 
 

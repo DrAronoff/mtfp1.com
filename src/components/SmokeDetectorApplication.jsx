@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 export function SmokeDetectorApplication() {
     return (
@@ -46,7 +47,7 @@ export function SmokeDetectorApplication() {
 
 
 <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/02/List_of_Monroe_Streets_by_District.xls" target="new" rel="noopener noreferrer">List of Monroe Twp. Streets by District</a> |
-<a href="http://mtfp1.com/smoke-detector-instructions/" target="new" rel="noopener noreferrer">Smoke Detector Instructions</a> | <a href="http://mtfp1.com/fire-extinguisher-instructions/" target="new" rel="noopener noreferrer">Fire Extinguisher Requirements</a> | <a href="http://mtfp1.com/smoke-detector-inspection-fees/" target="new" rel="noopener noreferrer">Smoke Detector Inspection Fees</a> | <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/Monroe_Fire_District_1_fees_-2017.pdf" target="new" rel="noopener noreferrer">Fire Prevention Fees</a> | <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/2019_Smoke_Requirements.pdf" target="new" rel="noopener noreferrer">2019 Smoke Detector Law and Requirements</a>
+<Link to="/smoke-detector-instructions" target="new" rel="noopener noreferrer">Smoke Detector Instructions</Link> | <Link to="/fire-extinguisher-instructions" target="new" rel="noopener noreferrer">Fire Extinguisher Requirements</Link> | <Link to="/smoke-detector-inspection-fees" target="new" rel="noopener noreferrer">Smoke Detector Inspection Fees</Link> | <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/Monroe_Fire_District_1_fees_-2017.pdf" target="new" rel="noopener noreferrer">Fire Prevention Fees</a> | <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/2019_Smoke_Requirements.pdf" target="new" rel="noopener noreferrer">2019 Smoke Detector Law and Requirements</a>
 </center>
 
 

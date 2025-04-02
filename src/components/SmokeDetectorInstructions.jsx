@@ -37,11 +37,11 @@ mounted or wall on the ceiling on each level of the residence. </strong><strong>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="787" height="514" src="http://mtfp1.com/WP/wp-content/uploads/2019/11/detector_diagram.jpg" alt="House diagram for Smoke Detector placement" class="wp-image-67" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram.jpg 787w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram-300x196.jpg 300w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram-768x502.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="787" height="514" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram.jpg" alt="House diagram for Smoke Detector placement" class="wp-image-67" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram.jpg 787w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram-300x196.jpg 300w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram-768x502.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" /></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="331" height="172" src="http://mtfp1.com/WP/wp-content/uploads/2019/11/detector_diagram2.jpg" alt="Room diagram for Smoke Detector placement" class="wp-image-63" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram2.jpg 331w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram2-300x156.jpg 300w" sizes="(max-width: 331px) 100vw, 331px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="331" height="172" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram2.jpg" alt="Room diagram for Smoke Detector placement" class="wp-image-63" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram2.jpg 331w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/detector_diagram2-300x156.jpg 300w" sizes="(max-width: 331px) 100vw, 331px" /></figure></div>
 		
             </center>
         </>

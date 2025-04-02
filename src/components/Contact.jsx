@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom';
 
 export function Contact() {
     
@@ -22,7 +23,7 @@ export function Contact() {
 
 
 <ul>
-<li><a href="http://mtfp1.com/fireworks/">Fireworks Safety Video</a></li>
+<li><Link to="/fireworks">Fireworks Safety Video</Link></li>
 <li><a href="http://www.fireworkssafety.org/safety-tips/" target="new" rel="noopener noreferrer">National Council on Fireworks Safety</a></li>
 <li><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/SaleofConsumerFireworks-June222018.pdf" target="new" rel="noopener noreferrer">Sale of Consumer Fireworks</a></li>
 <li><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/12/fireworks-listing.pdf" target="new" rel="noopener noreferrer">Legal Fireworks</a></li>
