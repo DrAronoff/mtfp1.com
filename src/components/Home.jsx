@@ -20,8 +20,10 @@ export function Home() {
                             <div class="image-center">
                             <center>
                             <div class="image-center">
-                            <a href="http://mtfp1.com/smoke-detector-application/"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/Smoke-Detector-small.gif"></img></a><br></br>
-                            <a href="http://mtfp1.com/smoke-detector-application/" target="new" rel="noopener">Smoke Detector Inspection Application</a>
+                            <Link to="/smoke-detector-application"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/Smoke-Detector-small.gif"></img></Link><br></br>
+
+                            <Link to="/smoke-detector-application">Smoke Detector Inspection Application</Link>
+
                             </div>
                             </center></div></td>
                             <td>
