@@ -104,7 +104,7 @@ export function Home() {
                     <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/06/nfpa_grill_fire_safety.pdf">Click here for Grilling Fire Safety Tips</a><br></br>
                     <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/06/nfpa_mulch_fire_safety.pdf">Click here for Mulch Fire Safety Tips</a></font></center>
                     <center>
-                   <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/07/LithiumIonBatterySafety.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" width="640" height="427" src="https://mtfp1.com/wp-content/uploads/2023/07/lithiumionbatteryalert.jpg" alt="" class="wp-image-934" srcset="https://mtfp1.com/wp-content/uploads/2023/07/lithiumionbatteryalert.jpg 640w, https://mtfp1.com/wp-content/uploads/2023/07/lithiumionbatteryalert-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+                   <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/07/LithiumIonBatterySafety.pdf" target="_blank" rel="noreferrer noopener"><img decoding="async" width="640" height="427" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/07/lithiumionbatteryalert.jpg" alt="" class="wp-image-934" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/07/lithiumionbatteryalert.jpg 640w, https://dzeqf35woxvwu.cloudfront.net/uploads/2023/07/lithiumionbatteryalert-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 
 
 
@@ -116,7 +116,7 @@ export function Home() {
 
                     <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
                     <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-                    <img decoding="async" width="522" height="173" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/coalert.jpg" alt="" class="wp-image-13" srcset="https://mtfp1.com/wp-content/uploads/2019/11/coalert.jpg 522w, https://mtfp1.com/wp-content/uploads/2019/11/coalert-300x99.jpg 300w, https://mtfp1.com/wp-content/uploads/2019/11/coalert-520x173.jpg 520w" sizes="(max-width: 522px) 100vw, 522px" />
+                    <img decoding="async" width="522" height="173" src="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/coalert.jpg" alt="" class="wp-image-13" srcset="https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/coalert.jpg 522w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/coalert-300x99.jpg 300w, https://dzeqf35woxvwu.cloudfront.net/uploads/2019/11/coalert-520x173.jpg 520w" sizes="(max-width: 522px) 100vw, 522px" />
                     </div>
 
 
