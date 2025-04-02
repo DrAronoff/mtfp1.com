@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 export function GeneralPrevention() {
     return (
@@ -18,12 +19,12 @@ export function GeneralPrevention() {
 <center>
 <p>Click on the links below to view or download Fire Prevention .pdf files/websites.</p>
 <ul>
-<li><a href="http://mtfp1.com/fire-prevention-checklist/">Fire Prevention Checklist</a></li>
-<li><a href="http://mtfp1.com/fire-safety-trailer-presentation/">Fire Safety Trailer Presentation</a></li>
-<li><a href="http://mtfp1.com/get-out-alive/">Get Out Alive</a></li>
-<li><a href="http://mtfp1.com/spring-and-summer-fire-prevention-tips/">Spring/Summer Fire Prevention Tips</a></li>
-<li><a href="http://mtfp1.com/fireworks/">Fireworks Safety</a></li>
-<li><a href="http://mtfp1.com/winter-fire-prevention-tips/">Winter Fire Prevention Tips</a></li>
+<li><Link to="/fire-prevention-checklist">Fire Prevention Checklist</Link></li>
+<li><Link to="/fire-safety-trailer-presentation">Fire Safety Trailer Presentation</Link></li>
+<li><Link to="/get-out-alive">Get Out Alive</Link></li>
+<li><Link to="/spring-and-summer-fire-prevention-tips">Spring/Summer Fire Prevention Tips</Link></li>
+<li><Link to="/fireworks">Fireworks Safety</Link></li>
+<li><Link to="/winter-fire-prevention-tips">Winter Fire Prevention Tips</Link></li>
 <li><a href="http://www.state.nj.us/dca/divisions/dfs/publications/publication/fs_facts_smoke_alarm_safety.pdf" target="new" rel="noopener noreferrer">Smoke Alarm Safety</a></li>
 <li><a href="http://www.njfiresafety.com/" target="new" rel="noopener noreferrer">&#8220;Fire Is&#8230;&#8221; by Frank Fields</a></li>
 <li><a href="http://www.state.nj.us/dca/divisions/dfs/publications/publication/fs_facts_children.pdf" target="new" rel="noopener noreferrer">Fire Safety &amp; Children</a></li>

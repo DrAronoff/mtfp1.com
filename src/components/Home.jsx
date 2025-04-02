@@ -39,8 +39,8 @@ export function Home() {
                                 <table><tbody><tr><td valign="top">
                             <div class="image-center">
                             <center>
-                            <a href="http://mtfp1.com/smoke-detector-inspection-payment-form/" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/09/Paypal_badge.jpg" border="0"></img></a><br></br>
-                            <font size="+2"><a href="http://mtfp1.com/smoke-detector-inspection-payment-form/" target="new" rel="noopener noreferrer">Pay Smoke Detector Inspection Fee Online</a></font></center></div>
+                            <Link to="/smoke-detector-inspection-payment-form" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/09/Paypal_badge.jpg" border="0"></img></Link><br></br>
+                            <font size="+2"><Link to="/smoke-detector-inspection-payment-form" target="new" rel="noopener noreferrer">Pay Smoke Detector Inspection Fee Online</Link></font></center></div>
                             </td><td valign="top">
                             <p><u><b>Per <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/10/O-8-2020-015.pdf" target="new" rel="noopener">Ordinance No. O-8-2020-015</a>:</b></u></p>
                             <p><b>Required PayPal Transaction Fees:</b> 2.9% + $0.30 per transaction<br></br>
@@ -53,8 +53,8 @@ export function Home() {
                             <td valign="top">
                             <div class="image-center">
                             <center>
-                            <a href="http://mtfp1.com/business-registration-permit-fees-payment-form/" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2021/01/paypal2.png" alt="PayPal"></img></a><br></br>
-                            <font size="+2"><a href="http://mtfp1.com/business-registration-permit-fees-payment-form/" target="new" rel="noopener noreferrer">Pay Registration and/or Permit Fees Online</a></font>
+                            <Link to="/business-registration-permit-fees-payment-form" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2021/01/paypal2.png" alt="PayPal"></img></Link><br></br>
+                            <font size="+2"><Link to="/business-registration-permit-fees-payment-form" target="new" rel="noopener noreferrer">Pay Registration and/or Permit Fees Online</Link></font>
                             </center>
                             </div>
                             </td>
@@ -75,8 +75,8 @@ export function Home() {
                                 <table><tbody><tr>
                             <td>
                             <div class="image-center">
-                            <a href="http://mtfp1.com/fire-prevention-general/"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango_small.jpg"></img></a><br></br>
-                            <a href="http://mtfp1.com/fire-prevention-general/">Fire Prevention</a> 
+                            <Link to="/general-prevention"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/01/fireprevdurango_small.jpg"></img></Link><br></br>
+                            <Link to="/general-prevention">Fire Prevention</Link> 
                             </div>
                             </td><td>
                             <div class="image-center">
@@ -99,8 +99,8 @@ export function Home() {
                     <center><font size="+2">Parents: Help us help you! <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2024/06/2024_Monroe_Fire_Prevention_School_Parent_Message.docx" target="new" rel="noopener">Click here to download our Fire Prevention letter</a></font></center>
 
                     <center><font size="+2">
-                    <a href="https://mtfp1.com/spring-and-summer-fire-prevention-tips/" target="new" rel="noopener">Click here for Summer Fire Prevention Tips</a><br></br>
-                    <a href="https://mtfp1.com/fireworks/" target="new" rel="noopener">Click here for the Fireworks Safety Video and Tips</a><br></br>
+                    <Link to="/spring-and-summer-fire-prevention-tips" target="new" rel="noopener">Click here for Summer Fire Prevention Tips</Link><br></br>
+                    <Link to="/fireworks" target="new" rel="noopener">Click here for the Fireworks Safety Video and Tips</Link><br></br>
                     <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/06/nfpa_grill_fire_safety.pdf">Click here for Grilling Fire Safety Tips</a><br></br>
                     <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2023/06/nfpa_mulch_fire_safety.pdf">Click here for Mulch Fire Safety Tips</a></font></center>
                     <center>

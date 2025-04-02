@@ -13,15 +13,13 @@ import { Contact } from './components/Contact'
 import { Navbar } from './components/Navbar'
 import { Links } from './components/Links'
 import { Footer } from './components/Footer'
-import { Elections } from './components/Elections'
+
 
 import { Current } from './components/Current'
 import { Report } from './components/Report'
 import { Audit } from './components/Audit'
 import { Resolution } from './components/Resolution'
-import { AgendaArchive } from './components/AgendaArchive'
-import { MinutesArchive } from './components/MinutesArchive'
-import { ReportsArchive } from './components/ReportsArchive'
+
 import { SmokeDetectorApplication } from './components/SmokeDetectorApplication'
 import { SmokeDetectorInspectionFees } from './components/SmokeDetectorInspectionFees'
 import { SmokeDetectorInspectionPaymentForm } from './components/SmokeDetectorInspectionPaymentForm'
