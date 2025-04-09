@@ -16,7 +16,7 @@ export function FirePreventionPreK() {
       <li>Don't hide from the fire fighters.</li>
       <li>Play video below.</li>
     </ol>
-	<p><font size="+2"><span style="text-decoration: underline;">Video:</span> Sesame Street Visits the Firehouse</font></p>
+	<p><font size="+2"><span>Video:</span> Sesame Street Visits the Firehouse</font></p>
     <iframe
         width="600"
         height="450"
