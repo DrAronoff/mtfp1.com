@@ -5,8 +5,7 @@ export function FirePreventionPreK() {
         <center>
             <br/><br/>
             <br/><br/>
-            <br/><br/>
-            <br/><br/>
+
             <center><h1><strong>Fire Prevention: Pre-K/Kindergarten</strong></h1></center>
 	<h2>Teacher's Instructions:</h2>
 <p>Concept:</p>
