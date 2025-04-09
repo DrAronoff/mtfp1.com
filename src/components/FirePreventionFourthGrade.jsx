@@ -18,7 +18,15 @@ export function FirePreventionFourthGrade() {
   <li><strong>After video, go to Escape Plan to reinforce concepts</strong>.</li>
 </ol>	
 	<p><font size="+2"><span >Video:</span> Home Fire Evacuation</font></p>
-	<p>(Insert playable Home_Fire_Evacuation.mp4 file here)</p>
+	<iframe
+        width="600"
+        height="450"
+        loading="lazy"
+        allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"
+        referrerpolicy="no-referrer-when-downgrade"
+        src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/Home_Fire_Evacuation.mp4">
+    </iframe>
 <h2><strong>Short Version</strong></h2>
 	<hr></hr>
 <p><strong><font size="+2">Alarms:</font></strong>&nbsp;Smoke detectors are needed on each level of your home and especially outside of sleeping areas. They must work. Place them on the ceiling a minimum of 4 to 6 inches from the wall. Too many times the Fire Department has responded to a house without a working smoke detector.</p>

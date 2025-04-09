@@ -33,10 +33,27 @@ export function FirePreventionFifthGrade
 
 <p><strong><font size="+2">Escape:</font></strong>&nbsp; When the alarm sounds, wake up household members and get out and stay out! Do not waste time getting valuables. If you see fire or heavy smoke or if the doorknob is hot, use a different way to get out.&nbsp; If you must turn around and use a bedroom window, use the escape ladder (climb down facing the ladder) or go out feet first facing the house, hang and drop. If you must go through smoke, stay low by crawling under the smoke. That’s where the cool air is. The difference may save your life.&nbsp; Go to the meeting place and do not go back inside for any reason. Call from the neighbor’s house or meeting place, not inside the burning building. Always call 911, even for the smallest fire that you thought you put completely out. The fire department can check behind the wall electronically for heat (not an axe) for any additional or extension of the fire.</p>
 <p><font size="+2"><span >Video:</span> Fire Is Fast </font></p>
-<p>(Insert playable FireIsFast.mp4 file here)</p>
+<iframe
+        width="600"
+        height="450"
+        loading="lazy"
+        allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"
+        referrerpolicy="no-referrer-when-downgrade"
+        src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/FireIsFast.mp4">
+    </iframe>
 
 <p><font size="+2"><span >Video: Middlesex County Fire Prevention</span></font></p>
-<p>(Insert playable Middlesex_County_Fire_Prevention_1.mp4 file here)</p>
+<iframe
+        width="600"
+        height="450"
+        loading="lazy"
+        allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"
+        referrerpolicy="no-referrer-when-downgrade"
+        src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/Middlesex_County_Fire_Prevention.mp4">
+    </iframe>
+
 <p><font size="+3"><strong><u>Getting Out Alive: Escape Plan/Home Fire Drills:</u></strong></font></p>
 <p>Make A Plan and do Fire Drills: Just Like in School!</p>
 

@@ -39,7 +39,15 @@ export function FirePreventionFirstGrade() {
 
 
         <p><font size="+2">Video: Sparky's ABCs of Fire Safety</font></p>
-        <p>(Insert playable Sparkys_ABCs_of_Fire_Safety.mp4 file here)</p>
+        <iframe
+        width="600"
+        height="450"
+        loading="lazy"
+        allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"
+        referrerpolicy="no-referrer-when-downgrade"
+        src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/Sparkys_ABCs_of_Fire_Safety.mp4">
+    </iframe>
         </center>
     )
 } 

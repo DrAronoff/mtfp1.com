@@ -22,7 +22,16 @@ export function FirePreventionThirdGrade() {
   <li><strong>After video, go to Getting Out Alive: Escape Plan/Home Fire Drills to reinforce concepts</strong>.</li>
 </ol>
 <p><font size="+2"><span >Video:</span> Home Fire Evacuation</font></p>
-<p>(Insert playable Home_Fire_Evacuation.mp4 file here)</p>
+<iframe
+        width="600"
+        height="450"
+        loading="lazy"
+        allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"
+        referrerpolicy="no-referrer-when-downgrade"
+        src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/Home_Fire_Evacuation_3rd_Grade.mp4">
+    </iframe>
+
 <p>Make A Plan and do Fire Drills: Just Like in School! </p>
 <p>Fire is dark, hot, and moves quickly, so you must have an escape plan. You have less than three or four minutes to get out before the smoke, temperatures, and carbon monoxide become unbearable. If you need assistance or have a family member with special needs (wheelchair, etc.), contact the Fire Dept. for a special plan.</p>
 <p>As said before, know two ways out:</p>
