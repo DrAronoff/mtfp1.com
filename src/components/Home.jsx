@@ -59,7 +59,7 @@ export function Home() {
                             </div>
                             </td>
                             <td valign="top">
-                            <font size="+1"><a href="https://mtfp1.com/application-for-type-1-permit/" target="new" rel="noopener noreferrer">Application for These Type 1 Permits:</a><br></br></font>
+                            <font size="+1"><Link to="/application-for-type-1-permit">Application for These Type 1 Permits:</Link><br></br></font>
                             <font size="+1">
                             <ul>
                             <li>Propane</li>

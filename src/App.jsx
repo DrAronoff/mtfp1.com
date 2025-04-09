@@ -40,6 +40,14 @@ import { OperationHoly } from './components/OperationHoly'
 import { GetOutAlive } from './components/GetOutAlive'
 import { SelfInspectionAffidavit } from './components/SelfInspectionAffidavit'
 import { BusinessRegistrationUpdate } from './components/BusinessRegistrationUpdate'
+import { FirePreventionFirstGrade } from './components/FirePreventionFirstGrade'
+import { FirePreventionSecondGrade } from './components/FirePreventionSecondGrade'
+import { FirePreventionThirdGrade } from './components/FirePreventionThirdGrade'
+import { FirePreventionFourthGrade } from './components/FirePreventionFourthGrade'
+import { FirePreventionFifthGrade } from './components/FirePreventionFifthGrade'
+import { GymClassStopDropAndRoll } from './components/GymClassStopDropAndRoll'
+import { ApplicationForType1Permit } from './components/ApplicationForType1Permit'
+import { FirePreventionPreK } from './components/FirePreventionPreK'
 
 
 
@@ -59,7 +67,18 @@ export default function App() {
           <Route path="/fees" element={<Fees />} />
           <Route path="/fire-extinguisher-instructions" element={<FireExtinguisherInstructions />} />
           <Route path="/smoke-requirements" element={<SmokeRequirements />} />
+          <Route path="/fire-prevention-pre-k-kindergarten" element={<FirePreventionPreK />} />
+
           <Route path="/fire-prevention-lessons" element={<FirePreventionLessons />} />
+          <Route path="/fire-prevention-first-grade" element={<FirePreventionFirstGrade />} />
+          <Route path="/fire-prevention-second-grade" element={<FirePreventionSecondGrade />} />
+          <Route path="/fire-prevention-third-grade" element={<FirePreventionThirdGrade />} />
+          <Route path="/fire-prevention-fourth-grade" element={<FirePreventionFourthGrade />} />
+          <Route path="/fire-prevention-fifth-grade" element={<FirePreventionFifthGrade />} />
+          <Route path="/gym-class-stop-drop-and-roll" element={<GymClassStopDropAndRoll />} />
+          <Route path="/application-for-type-1-permit" element={<ApplicationForType1Permit />} />
+
+          
           <Route path="/reading" element={<VideoReading />} />
           <Route path="/general-prevention" element={<GeneralPrevention />} />
           <Route path="/fire-prevention-checklist" element={<FirePreventionChecklist />} />
