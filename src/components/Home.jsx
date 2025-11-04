@@ -89,17 +89,26 @@ export function Home() {
                             <a href="https://youtu.be/f6yCtToEScQ" target="new" rel="noopener noreferrer">Click here</a> for a special video message from our Fire Company.
                             </center></div>
                             </td></tr></tbody></table>
-                    <p><font size="+2"><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2025_Monroe_Fire_Contest_Thank_You.docx" target="new">2025 Home Inspection Contest: Thank You Letter to Parents</a></font></p>
-                    <p><font size="+2"><u>2024-2025 Fire Prevention Poster Contest Theme:</u>
-                    
-                    
-                   
+                            <br></br>
+                            <br></br>
+                    <p><font size="+2"><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2025_County_Home_Fire_Inspection_Contest.docx" target="new"><button type="button">Home Inspection Contest Form</button></a></font></p>
                     
                     <br></br>
-                    &#8220;Smoke Alarms &#8211; Make Them WORK For You!”
+
+                    
+                    <p><font size="+2"><u>2025-2026 Fire Prevention Poster Contest Theme:</u>
+            
+                    <br></br>
+                    "CHARGE into Fire Safety: Lithium-Ion Batteries in Your Home" 
                     </font></p>
-                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2024/10/poster_contest_rules_and_registration_2024_2025.pdf"  ><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2024/10/2024_fire_poster_theme_s.jpg"></img></a> 
+                    
+                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/poster_contest_rules+and+registration_2025_2026.pdf" ><button type="button">FIRE PREVENTION POSTER CONTEST REGISTRATION FORM </button></a>
+                    <br></br>
+                    <br></br>
+                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/poster_contest_rules+and+registration_2025_2026.pdf"  ><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2025-2026_fpw_logo.jpg"></img></a> 
                     </center>
+                    <br></br>
+                    <br></br>
                     <center><font size="+2">Parents: Help us help you! <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2024/06/2024_Monroe_Fire_Prevention_School_Parent_Message.docx" target="new" rel="noopener">Click here to download our Fire Prevention letter</a></font></center>
 
                     <center><font size="+2">
