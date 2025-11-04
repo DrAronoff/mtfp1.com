@@ -26,10 +26,14 @@ export function Home() {
 
                             </div>
                             </center></div></td>
+                            {/* 
+                            
                             <td>
                             <Link to="/monroe-township-fire-district-1-affidavit-self-inspection">Self-Inspection Affidavit Form</Link>
 
                             </td>
+                            */}
+                            
                             <td>
                             <Link to="/business-registration-update-form">Business Registration Update Form</Link>
 
