@@ -40,28 +40,33 @@ export function Home() {
                             </td>
                             </tr></tbody></table>
                                 <p>&nbsp;</p>
-                                <table><tbody><tr><td valign="top">
+                                <table><tbody><tr>
+                                        {/*
+                                                                            <td valign="top">
+
                             <div class="image-center">
                             <center>
-                            <Link to="/smoke-detector-inspection-payment-form" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/09/Paypal_badge.jpg" border="0"></img></Link><br></br>
+                            <Link to="/smoke-detector-inspection-payment-form" target="new" rel="noopener noreferrer"></Link><br></br>
                             <font size="+2"><Link to="/smoke-detector-inspection-payment-form" target="new" rel="noopener noreferrer">Pay Smoke Detector Inspection Fee Online</Link></font></center></div>
-                            </td><td valign="top">
+                            </td>
+                            */}
+                            <td valign="top">
                             <p><u><b>Per <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2020/10/O-8-2020-015.pdf" target="new" rel="noopener">Ordinance No. O-8-2020-015</a>:</b></u></p>
-                            <p><b>Required PayPal Transaction Fees:</b> 2.9% + $0.30 per transaction<br></br>
-                            <b>In-person Transactions:</b><br></br>
-                            2.7% per credit card swipe, chip, or tap<br></br>
-                            3.5% plus $0.15 for manually entered transactions<br></br>
+                            <p><b>Required Transaction Fees:</b> 4.9% + $0.30 per transaction<br></br>
+                            
                             </p></td>
                             </tr>
                             <tr>
+                                {/*
                             <td valign="top">
                             <div class="image-center">
                             <center>
-                            <Link to="/business-registration-permit-fees-payment-form" target="new" rel="noopener noreferrer"><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2021/01/paypal2.png" alt="PayPal"></img></Link><br></br>
+                            <Link to="/business-registration-permit-fees-payment-form" target="new" rel="noopener noreferrer"></Link><br></br>
                             <font size="+2"><Link to="/business-registration-permit-fees-payment-form" target="new" rel="noopener noreferrer">Pay Registration and/or Permit Fees Online</Link></font>
                             </center>
                             </div>
                             </td>
+                            */}
                             <td valign="top">
                             <font size="+1"><Link to="/application-for-type-1-permit">Application for These Type 1 Permits:</Link><br></br></font>
                             <font size="+1">

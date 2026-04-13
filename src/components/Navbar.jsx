@@ -10,7 +10,7 @@ export function Navbar() {
 
     const [isOpen, setIsOpen] = useState(false)
     const [IsInspectionOpen, setIsInspectionOpen] = useState(false)
-    const InspectionOption = ['Smoke Detector Application', 'Smoke Detector Inspection Fees', 'Smoke Detector Inspection Payment Form', 'Business Registration Permit Fees Payment Form', 'Fire Prevention Fees', 'Smoke Detector Instructions', 'Extinguisher Requirements', '2019 Smoke Detector Law And Requirements'];
+    const InspectionOption = ['Smoke Detector Application', 'Smoke Detector Inspection Fees', 'Fire Prevention Fees', 'Smoke Detector Instructions', 'Extinguisher Requirements', '2019 Smoke Detector Law And Requirements'];
     const selectedInspectionOption = "";
     const PreventionOption = ['Fire Prevention Lessons', 'Video Reading Of "I Drive A Fire Truck"', 'Fire Prevention - General','Fire Prevention Checklist', 'Fire Safety Trailer Presentation', 'Spring / Summer Tips', 'Fireworks Safety', 'Winter Tips', 'Op: Holy Smokes', 'Get Out Alive', 'Fire Is By Frank Fields', 'Smoke Alarm Safety'];
     const selectedPreventionOption = "";
@@ -29,10 +29,7 @@ export function Navbar() {
           navigate('/smoke-detector-inspection-fees');
           closeInspectionMenu();
           break;
-        case 'Smoke Detector Inspection Payment Form':
-          navigate('/smoke-detector-inspection-payment-form');
-          closeInspectionMenu();
-          break;
+        
         case 'Business Registration Permit Fees Payment Form':
           navigate('/business-registration-permit-fees-payment-form');
           closeInspectionMenu();

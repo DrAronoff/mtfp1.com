@@ -13,7 +13,6 @@ export function SmokeDetectorInspectionFees() {
 
 
 
-<p><strong>As of 10/19/2021 we will be resuming in person smoke detector inspections. The current affidavit will no longer be accepted unless there are COVID symptoms in the residence at time of scheduling. As we will not be asking about COVID symptoms, please advise the inspector when scheduling for our safety and yours. We will also be resuming the inspection fee schedule which is as follows:</strong></p>
 
 
 
@@ -41,7 +40,7 @@ export function SmokeDetectorInspectionFees() {
 
 
 
-<p><strong><span >Fees:</span></strong><br></br><strong>Online Transactions:</strong> 2.9% + $0.30 per transaction<br></br><br></br><strong>In-person Transactions:</strong> <br></br>2.7%&nbsp;per credit card swipe, chip, or tap<br></br>3.5% plus $0.15 for manually entered transactions<br></br></p>
+<p><strong><span ></span></strong><br></br><strong>Required Transaction Fees:</strong> 4.9% + $0.30 per transaction<br></br><br></br><br></br></p>
 		</p>
         </div>
         </center>
