@@ -96,7 +96,6 @@ export function Home() {
                             </td></tr></tbody></table>
                             <br></br>
                             <br></br>
-                    <p><font size="+2"><a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2025_County_Home_Fire_Inspection_Contest.docx" target="new"><button type="button">Home Inspection Contest Form</button></a></font></p>
                     
                     <br></br>
 
