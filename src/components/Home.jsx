@@ -107,14 +107,14 @@ export function Home() {
                     "CHARGE into Fire Safety: Lithium-Ion Batteries in Your Home" 
                     </font></p>
                     
-                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/poster_contest_rules+and+registration_2025_2026.pdf" ><button type="button">FIRE PREVENTION POSTER CONTEST REGISTRATION FORM </button></a>
+                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2026-2027_poster_contest_rules+and+registration+(1).pdf" ><button type="button">FIRE PREVENTION POSTER CONTEST REGISTRATION FORM </button></a>
                     <br></br>
                     <br></br>
-                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/poster_contest_rules+and+registration_2025_2026.pdf"  ><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2025-2026_fpw_logo.jpg"></img></a> 
+                    <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2026-2027_poster_contest_rules+and+registration+(1).pdf"  ><img src="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/FPW26_email+image.jpg" alt="Fire Prevention Poster Contest 2025-2026" width="640" height="427"></img></a> 
                     </center>
                     <br></br>
                     <br></br>
-                    <center><font size="+2">Parents: Help us help you! <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2024/06/2024_Monroe_Fire_Prevention_School_Parent_Message.docx" target="new" rel="noopener">Click here to download our Fire Prevention letter</a></font></center>
+                    <center><font size="+2">Parents: Help us help you! <a href="https://dzeqf35woxvwu.cloudfront.net/uploads/2025/02/2026-2027_poster_contest_rules+and+registration+(1).pdf" target="new" rel="noopener">Click here to download our Fire Prevention letter</a></font></center>
 
                     <center><font size="+2">
                     <Link to="/spring-and-summer-fire-prevention-tips" target="new" rel="noopener">Click here for Summer Fire Prevention Tips</Link><br></br>
